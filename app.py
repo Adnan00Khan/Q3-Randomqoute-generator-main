@@ -12,4 +12,4 @@ if st.button("Generate Quote"):
     st.success(get_random_quote())
 
 # Add watermark-style text
-st.markdown("<br><br><hr style='border:1px solid gray'><p style='text-align:center; font-size:12px; color:gray;'>Created by AK SoftTech</p>", unsafe_allow_html=True)
+st.markdown("<br><br><hr style='border:1px solid gray'><p style='text-align:center; font-size:12px; color:gray;'>Created by Adnan Khan</p>", unsafe_allow_html=True)
